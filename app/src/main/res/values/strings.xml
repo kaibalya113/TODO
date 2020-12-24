@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="yes1">Update</string>
+</resources>
